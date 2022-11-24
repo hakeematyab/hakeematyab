@@ -44,7 +44,6 @@
     <img src='https://github-readme-streak-stats.herokuapp.com?user=intuitive-brilliance&theme=dark&hide_border=true'>
 </p>
 
-
 ## **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/hakeem-atyab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
