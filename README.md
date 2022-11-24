@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Atyab Hakeem</h1>
 <h3 align="center">A Data Scientist who loves experimenting on data with new technologies to build applications that make our lives easier.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
 - 💼 I'm currently looking for a new opportunities as a Data Scientist.
 
@@ -15,6 +15,8 @@
 - ⚡ Fun fact - **"It is impossible for most people to lick their own elbow."**(Don't.Do.It)
 
 - 📄 Know about my experiences [CLICK ME](https://drive.google.com/file/d/1cn7-yvoHPvyQFBofO5-IdqsButvNYkgo/view)
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
