@@ -16,9 +16,6 @@
 
 - 📄 Know about my experiences [CLICK ME](https://drive.google.com/file/d/1cn7-yvoHPvyQFBofO5-IdqsButvNYkgo/view)
 
-<br>
-
-
 ## **LANGUAGES AND TOOLS**
 
 <p align="left"> 
