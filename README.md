@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **AIOps Tools.**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/Intuitive-Brilliance?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
 
 - 👨‍💻 Completed **Full Stack Data Science Certifications.** 
 
