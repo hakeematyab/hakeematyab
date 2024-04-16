@@ -1,20 +1,16 @@
 ![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 
 <h1 align="center">Hi 👋, I'm Atyab Hakeem</h1>
-<h3 align="center">A Data Scientist who loves experimenting on data with new technologies to build applications that make our lives easier.</h3>
+<h3 align="center">A Data Scientist who loves experimenting on data with new technologies to build impactful solutions.</h3>
 <img align="right" alt="Coding" width="325" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
-- 💼 I'm currently looking for new opportunities as a Data Scientist.
+- 💼 I'm currently looking for co-ops in the field of data science and machine learning.
 
-- 🌱 I’m currently working on **AIOps Tools.**
+- 🌱 Pursuing Master's in Data Science at Northeastern University in Boston.
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
 
-- 👨‍💻 Completed **Full Stack Data Science Certifications.** 
-
-- ⚡ Fun fact - **"It is impossible for most people to lick their own elbow."**(Don't.Do.It)
-
-- 📄 Know about my experiences [CLICK ME](https://drive.google.com/file/d/1cn7-yvoHPvyQFBofO5-IdqsButvNYkgo/view)
+- 📄 Know about my experiences [CLICK ME](https://drive.google.com/file/d/1aAlVEF4TB79YvA0XEE0p5TA4KTWf3NzM/view?usp=sharing)
 
 ## **LANGUAGES AND TOOLS**
 
@@ -38,15 +34,11 @@
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
 </p>
 
-## **STREAK STATS**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=intuitive-brilliance&theme=dark&hide_border=true'>
-</p>
 
 ## **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/hakeem-atyab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "mailto: hakeematyab.mobile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "mailto: hakeematyab.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br>
 </a>
   
