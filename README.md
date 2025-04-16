@@ -37,7 +37,7 @@ A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining 
 -->
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hakeematyab&show_icons=true&theme=github_dark" height="160" />
