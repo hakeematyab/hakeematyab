@@ -1,44 +1,51 @@
-![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
+# 👋 Hi there, I'm Atyab Hakeem
 
-<h1 align="center">Hi 👋, I'm Atyab Hakeem</h1>
-<h3 align="center">A Data Scientist who loves experimenting on data with new technologies to build impactful solutions.</h3>
-<img align="right" alt="Coding" width="325" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
+🎓 Master's in Data Science @ Northeastern University  
+🧠 Machine Learning Engineer | LLMs • MLOps • Vision • NLP  
+💼 Ex-Software Engineer @ Dassault Systèmes  
+📍 Boston, MA (Open to Relocation) | 🔍 Open to Internships and Full-Time AI/ML Opportunities
 
-- 💼 I'm currently looking for co-ops in the field of data science and machine learning.
+## 🚀 About Me
 
-- 🌱 Pursuing Master's in Data Science at Northeastern University in Boston.
+I love building AI solutions that help make lives just a tad bit easier.
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
+Whether it's integrating **generative AI** into production apps like **SOLIDWORKS Visualize** (👀 [Showcased at 3DEXPERIENCE World](https://www.youtube.com/live/bCUthxb_LFc?t=5326s)), or scaling a **multi-agent financial auditing platform**, I specialize in:
 
-- 📄 Know about my experiences [CLICK ME](https://drive.google.com/file/d/1aAlVEF4TB79YvA0XEE0p5TA4KTWf3NzM/view?usp=sharing)
+- 🧪 Experimentation-first workflows
+- 🛠️ End-to-end ownership (Dev → Deploy → Deliver)
+- 🤝 Collaborative discussion and consistent execution
 
-## **LANGUAGES AND TOOLS**
+## 🧠 What I'm Working On
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
-        <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
-    <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
-        <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a> 
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </a> 
-    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> </a>
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> </a>
-    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> 
-    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
+### 🔍 [AuditPulse](https://github.com/hakeematyab/AuditPulse)  
+**Multi-agent financial auditing system** using CrewAI + OpenAI, built with CI/CD, deployed on GCP.  
+> Combines audits, resilience, and explainability in one plug-and-play system.
+
+### 🧠 [Reliable-Explainable-Brain-Tumor-Segmentation](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation)  
+A robust 3D MRI segmentation pipeline with UNETR, differential privacy, and Grad-CAM.  
+> Tackles robustness, explainability, and privacy in critical healthcare applications.
+
+## 📄 Paper Replication Projects
+
+### 📘 [Vision Transformer (ViT)](https://github.com/hakeematyab/Paper-Replication-Vision-Transformer-ViT)  
+An implementation of *"An Image is Worth 16x16 Words"*, focusing on attention mechanisms and scalable image classification.  
+> Explores transformer-based architectures in computer vision.
+
+### 🖼️ [Neural Image Captioning](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication)  
+A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining CNNs and RNNs for caption generation.  
+> Bridges vision and language through end-to-end neural architectures.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakeematyab&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hakeematyab&theme=github_dark" height="160" />
 </p>
 
 
-## **CONNECT WITH ME**:
-<p align="left">
-<a href = "https://www.linkedin.com/in/hakeem-atyab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "mailto: hakeematyab.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br>
-</a>
-  
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakeem-atyab/)
+[![Email](https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakeematyab.official@gmail.com)
