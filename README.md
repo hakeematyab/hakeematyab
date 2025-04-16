@@ -14,27 +14,23 @@ Whether it's integrating **generative AI** into production apps like **SOLIDWORK
 - 🧪 Experimentation-first workflows
 - 🛠️ End-to-end ownership (Dev → Deploy → Deliver)
 - 🤝 Collaborative discussion and consistent execution
-<!-- 
+
 ## 🧠 What I'm Working On
 
-### 🔍 [AuditPulse](https://github.com/hakeematyab/AuditPulse)  
+#### 🔍 [AuditPulse](https://github.com/hakeematyab/AuditPulse)  
 **Multi-agent financial auditing system** using CrewAI + OpenAI, built with CI/CD, deployed on GCP.  
-> Combines audits, resilience, and explainability in one plug-and-play system.
 
-### 🧠 [Reliable-Explainable-Brain-Tumor-Segmentation](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation)  
+#### 🧠 [Reliable-Explainable-Brain-Tumor-Segmentation](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation)  
 A robust 3D MRI segmentation pipeline with UNETR, differential privacy, and Grad-CAM.  
-> Tackles robustness, explainability, and privacy in critical healthcare applications.
 
 ## 📄 Paper Replication Projects
 
-### 📘 [Vision Transformer (ViT)](https://github.com/hakeematyab/Paper-Replication-Vision-Transformer-ViT)  
+#### 📘 [Vision Transformer (ViT)](https://github.com/hakeematyab/Paper-Replication-Vision-Transformer-ViT)  
 An implementation of *"An Image is Worth 16x16 Words"*, focusing on attention mechanisms and scalable image classification.  
-> Explores transformer-based architectures in computer vision.
 
-### 🖼️ [Neural Image Captioning](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication)  
+#### 🖼️ [Neural Image Captioning](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication)  
 A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining CNNs and RNNs for caption generation.  
-> Bridges vision and language through end-to-end neural architectures.
--->
+
 ---
 
 ### 📊 GitHub Activity
