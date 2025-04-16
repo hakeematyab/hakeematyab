@@ -15,6 +15,10 @@ Whether it's integrating **generative AI** into production apps like **SOLIDWORK
 - 🛠️ End-to-end ownership (Dev → Deploy → Deliver)
 - 🤝 Collaborative discussion and consistent execution
 
+🗂️ Curious about my work? [Check out my full project portfolio here.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
+
+
+<!--
 ## 🧠 What I'm Working On
 
 #### 🔍 [AuditPulse](https://github.com/hakeematyab/AuditPulse)  
@@ -30,7 +34,7 @@ An implementation of *"An Image is Worth 16x16 Words"*, focusing on attention me
 
 #### 🖼️ [Neural Image Captioning](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication)  
 A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining CNNs and RNNs for caption generation.  
-
+-->
 ---
 
 ### 📊 GitHub Activity
