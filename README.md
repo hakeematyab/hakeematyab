@@ -48,3 +48,4 @@ A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining 
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakeem-atyab/)
 [![Email](https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakeematyab.official@gmail.com)
+[![Medium](https://img.shields.io/badge/Read_My_Articles-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hakeematyab)
