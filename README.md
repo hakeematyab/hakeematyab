@@ -3,7 +3,7 @@
 🎓 Master's in Data Science @ Northeastern University  
 🧠 Machine Learning Engineer | LLMs • MLOps • Vision • NLP  
 💼 Ex-Software Engineer @ Dassault Systèmes  
-📍 Boston, MA (Open to Relocation) | 🔍 Open to Internships and Full-Time AI/ML Opportunities
+📍 Boston, MA (Open to Relocation) | 🔍 Open to Full-Time AI/ML Opportunities
 
 ## 🚀 About Me
 
@@ -14,6 +14,11 @@ Whether it's integrating **generative AI** into production apps like **SOLIDWORK
 - 🧪 Experimentation-first workflows
 - 🛠️ End-to-end ownership (Dev → Deploy → Deliver)
 - 🤝 Collaborative discussion and consistent execution
+
+## 🧠 What I'm Working On
+🔍 Building private RAG system for a research lab at Northeastern. [Here](https://github.com/hakeematyab/Queryable-Shared-Reference-Repositor)
+
+✍️ I'm also writing medium articles. [Here](https://medium.com/@hakeematyab)
 <!--
 🗂️ Curious about my work? [Check out my full project portfolio here.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
 -->
