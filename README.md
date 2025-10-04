@@ -14,9 +14,9 @@ Whether it's integrating **generative AI** into production apps like **SOLIDWORK
 - 🧪 Experimentation-first workflows
 - 🛠️ End-to-end ownership (Dev → Deploy → Deliver)
 - 🤝 Collaborative discussion and consistent execution
-
+<!--
 🗂️ Curious about my work? [Check out my full project portfolio here.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
-
+-->
 
 <!--
 ## 🧠 What I'm Working On
