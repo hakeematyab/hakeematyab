@@ -16,7 +16,7 @@ Whether it's integrating **generative AI** into production apps like **SOLIDWORK
 - 🤝 Collaborative discussion and consistent execution
 
 ## 🧠 What I'm Working On
-🔍 Building private RAG system for a research lab at Northeastern. [Here](https://github.com/hakeematyab/Queryable-Shared-Reference-Repositor)
+🔍 Building a private RAG system for a research lab at Northeastern. [Here](https://github.com/hakeematyab/Queryable-Shared-Reference-Repositor)
 
 ✍️ I'm also writing medium articles. [Here](https://medium.com/@hakeematyab)
 <!--
