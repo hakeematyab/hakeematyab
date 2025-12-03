@@ -40,14 +40,14 @@ An implementation of *"An Image is Worth 16x16 Words"*, focusing on attention me
 #### 🖼️ [Neural Image Captioning](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication)  
 A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining CNNs and RNNs for caption generation.  
 -->
-
+<!--
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakeematyab&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hakeematyab&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hakeematyab&show_icons=true&theme=github_dark&cache_seconds=86400" height="160" />
+  <img src="https://streak-stats.demolab.com?user=hakeematyab&theme=github-dark-blue" height="160" />
 </p>
-
+-->
 
 ## 📫 Connect with Me
 
