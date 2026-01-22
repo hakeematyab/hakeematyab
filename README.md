@@ -1,56 +1,28 @@
-# 👋 Hi there, I'm Atyab Hakeem
+# Atyab Hakeem
 
-🎓 Master's in Data Science @ Northeastern University  
-🧠 Machine Learning Engineer | LLMs • MLOps • Vision • NLP  
-💼 Ex-Software Engineer @ Dassault Systèmes  
-📍 Boston, MA (Open to Relocation) | 🔍 Open to Full-Time AI/ML Opportunities
+Machine Learning Engineer | RAG, LLMs, GenAI, MLOps
 
-## 🚀 About Me
+MS Data Science, Northeastern University (3.95 GPA)
 
-I love building AI solutions that help make lives just a tad bit easier.
+## Work
 
-Whether it's integrating **generative AI** into production apps like **SOLIDWORKS Visualize** (👀 [Showcased at 3DEXPERIENCE World](https://www.youtube.com/live/bCUthxb_LFc?t=5326s)), or scaling a **multi-agent financial auditing platform**, I specialize in:
+**Scale AI** - Built a RAG system reducing coordinator workload by 40%. Designed LLM evaluation workflows achieving 90%+ approval rates for frontier model training data.
 
-- 🧪 Experimentation-first workflows
-- 🛠️ End-to-end ownership (Dev → Deploy → Deliver)
-- 🤝 Collaborative discussion and consistent execution
+**Dassault Systèmes** - Shipped Stable Diffusion integration boosting productivity 70%. [Showcased at 3DEXPERIENCE World 2025](https://www.youtube.com/live/bCUthxb_LFc?t=5326s).
 
-## 🧠 What I'm Working On
-🔍 Building a private RAG system for a research lab at Northeastern. [Here](https://github.com/hakeematyab/Queryable-Shared-Reference-Repositor)
+**Vitek Lab** - Deployed on-premise agentic RAG for 10K+ scientific documents achieving 85% hit rate and 93% hallucination mitigation precision.
 
-✍️ I'm also writing medium articles. [Here](https://medium.com/@hakeematyab)
-<!--
-🗂️ Curious about my work? [Check out my full project portfolio here.](https://github.com/Intuitive-Brilliance/Portfolio/blob/main/README.md)
--->
+## Projects
 
-<!--
-## 🧠 What I'm Working On
+- [Queryable Shared Reference Repository](https://github.com/hakeematyab/Queryable-Shared-Reference-Repository) - Agentic RAG with LangGraph, ChromaDB, hybrid retrieval
+- [AuditPulse](https://github.com/hakeematyab/AuditPulse) - Multi-agent financial auditing system (CrewAI, GCP). 68% cost reduction.
+- [CareConnect](https://github.com/hakeematyab/CareConnect) - LLaMA fine-tuned with LoRA + RAG for medical queries. 84% BERT score.
 
-#### 🔍 [AuditPulse](https://github.com/hakeematyab/AuditPulse)  
-**Multi-agent financial auditing system** using CrewAI + OpenAI, built with CI/CD, deployed on GCP.  
+## Writing
 
-#### 🧠 [Reliable-Explainable-Brain-Tumor-Segmentation](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation)  
-A robust 3D MRI segmentation pipeline with UNETR, differential privacy, and Grad-CAM.  
+[Medium](https://medium.com/@hakeematyab)
 
-## 📄 Paper Replication Projects
+## Connect
 
-#### 📘 [Vision Transformer (ViT)](https://github.com/hakeematyab/Paper-Replication-Vision-Transformer-ViT)  
-An implementation of *"An Image is Worth 16x16 Words"*, focusing on attention mechanisms and scalable image classification.  
-
-#### 🖼️ [Neural Image Captioning](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication)  
-A replication of *"Show and Tell: A Neural Image Caption Generator"*, combining CNNs and RNNs for caption generation.  
--->
-<!--
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakeematyab&show_icons=true&theme=github_dark&cache_seconds=86400" height="160" />
-  <img src="https://streak-stats.demolab.com?user=hakeematyab&theme=github-dark-blue" height="160" />
-</p>
--->
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakeem-atyab/)
-[![Email](https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakeematyab.official@gmail.com)
-[![Medium](https://img.shields.io/badge/Read_My_Articles-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hakeematyab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakeem-atyab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hakeematyab.official@gmail.com)
