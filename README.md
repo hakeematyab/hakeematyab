@@ -10,7 +10,7 @@ MS Data Science, Northeastern University (3.95 GPA)
 
 **Dassault Systèmes** - Shipped Stable Diffusion integration boosting productivity 70%. [Showcased at 3DEXPERIENCE World 2025](https://www.youtube.com/live/bCUthxb_LFc?t=5326s).
 
-**Vitek Lab** - Deployed on-premise agentic RAG for 10K+ scientific documents achieving 85% hit rate and 93% hallucination mitigation precision.
+**Vitek Lab** - Deployed on-premise agentic RAG for 10K+ scientific documents achieving 85% hit rate, 93% hallucination mitigation precision, and <15s p95 latency.
 
 ## Projects
 
